@@ -1,3 +1,8 @@
+# CatMouse
+Este projeto é um exercício de react,
+Feito com `create-react-app`.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
